@@ -7,12 +7,12 @@
 }
 
 body{
-  background-image: url("/bg.jpg");
+  background-image: url("/bg.png");
   display: flex;
   align-items:center;
   justify-content: center;
   height:100vh;
-  color: white;
+  color: rgb(123, 255, 0);
 }
 
 .container{
