@@ -26,6 +26,17 @@ const Detail =()=>{
                         <span>Shared Photo</span>
                         <img src="./arrowDown.png" alt="" />
                     </div>
+                    <div className="photos">
+                        <div className="photoItem">
+                            <div className="photoDetail">
+                                <img src="" alt="" 
+                                />
+                                <span>photo_2024_2.png</span>
+                            </div>      
+                            <img src="./download.png" alt=""/> 
+                        </div>
+                            
+                    </div>
                 </div>
                 <div className="option">
                     <div className="title">
@@ -33,6 +44,7 @@ const Detail =()=>{
                         <img src="./arrowUp.png" alt="" />
                     </div>
                 </div>
+                <button>Block User</button>
             </div>
         </div>
     )
